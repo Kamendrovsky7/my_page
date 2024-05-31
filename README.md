@@ -31,8 +31,10 @@ My name is Roman. 30 years old. Live in Volgograd, Russia. Married, have a child
 
 - Have a good, 8 year of cooking experience
 - Have a pretty good in **English** language, a little bit in **German** language
-- Started studying to code (mostly on **Python**) and  learning all about of processes in programming (mostly backend on (**Python**)
-- Can use _Git_
+- Started studying to code (mostly on **Python**) and  learning all about of processes in programming (mostly backend on **Python**)
+- Improve my skills at _Git_
+- Have some skill at _HTML_, _CSS_
+
 ---------------
 ### ///MY WORKS///
 
