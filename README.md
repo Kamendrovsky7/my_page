@@ -19,14 +19,18 @@ My name is Roman. 30 years old. Live in Volgograd, Russia. Married, have a child
 - A good basketball player
 - Coding on Python ;)
 - Enjoy by collecting FUNKO POP
+  
 ---------------------------------
+
 ### ///MY REACHES///
 
 - Finished VGSPU, bachelor on Social Work and Psychology
 - Have a few prizes of taking part in Social Activitiy
 - Studying in Netology
 - Working on open a new restaurant as cook
+
 ----------------------------------
+
 ### ///MY SKILLS///
 
 - Have a good, 8 year of cooking experience
@@ -36,6 +40,7 @@ My name is Roman. 30 years old. Live in Volgograd, Russia. Married, have a child
 - Have some skill at _HTML_, _CSS_
 
 ---------------
+
 ### ///MY WORKS///
 
 This section will be update..
