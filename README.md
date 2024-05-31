@@ -8,7 +8,7 @@
 
 My name is Roman. 30 years old. Live in Volgograd, Russia. Married, have a child.
 
-[](https://photos.app.goo.gl/t7R6GTU5w1wZsmGE7)
+![](https://photos.app.goo.gl/t7R6GTU5w1wZsmGE7)
 
 ----------
 
